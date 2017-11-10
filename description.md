@@ -1,5 +1,3 @@
-# Kerkesat e Perdoruesit
- -
- -
+# Kerkesat e Perdoruesit:
  
-# Rastet e Perdorimit
+# Rastet e Perdorimit:
