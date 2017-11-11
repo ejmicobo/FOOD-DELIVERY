@@ -1,5 +1,6 @@
 # FOOD-DELIVERY
 
+
 # ANETARET E GRUPIT:
 
  - Andi Shehu
@@ -9,6 +10,7 @@
  - Ejmi Çobo
  - Rudian Gjozi
  
- - TEMA E PROJEKTIT:
+ 
+ # TEMA E PROJEKTIT:
  
   - Aplikacion Android / iOS dhe Website per nje sherbim Food-Delivery ne qytetin e Vlores. Ne kete Aplikacion/Website do te listohen te gjithe restorantet e Vlores qe ofrojne sherbim taxi bashke me menune e secilit restorant. Perdoruesit e Aplikacionit/Website do te kene mundesine te zgjedhin nga menuja e secilit restorant shume thjesht dhe ne kohe reale.
