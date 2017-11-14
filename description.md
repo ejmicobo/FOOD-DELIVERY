@@ -6,6 +6,7 @@
 - Sa vonohet dhe si do e marr porosine?
 - Cilat jane menyrat e pageses?
 - Çfare mund te bej ne rast se vonohet porosia?
+ Sherbimi yne do te jete gjithmone gati per tju dorezuar porosine brenda limitit te orarit te vendosur. Gjithsesi ne rast vonesash pertej ketij limiti ju do te kontaktoheni nga restoranti per vonesen dhe arsyen e saj.
 
 
 
