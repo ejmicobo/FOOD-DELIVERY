@@ -10,13 +10,16 @@
 
 
 
-# SI FUNKSIONON?
-
+# Si funksionon?
 1 KERKO 
 - Kërkoni restorantet ose fast-foodet që gatuajnë afër zonës suaj.
-
 2 ZGJIDH 
 - Zgjidhni ushqimin tuaj të preferuar.
-
 3 SHIJOJE 
 - Shijoni zgjedhjen tuaj të përgatitur me mjeshtëri.
+
+# Në cfarë orari ofrohet ky shërbim?
+Sherbimi do te jete funksional 24 ore ne dite por porosia juaj është në varësi të orarit që vendos restoranti dhe këtë informacion mund ta gjeni në brendesi te aplikacionit të përcaktuar për cdo restorant që zgjidhni.
+
+# Si mund të marr porosinë time?
+Në një kohë mesatare prej 30 minutash mbas kryerjes së porosisë, ekipi i dorëzimit do të organizohet për të sjellë produktet aty ku ndodheni.
