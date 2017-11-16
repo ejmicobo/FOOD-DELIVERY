@@ -31,5 +31,5 @@ Sherbimi do te jete funksional 24 ore ne dite por porosia juaj është në varë
 # Si mund të marr porosinë time?
 Në një kohë mesatare prej 30 minutash mbas kryerjes së porosisë, ekipi i dorëzimit do të organizohet për të sjellë produktet aty ku ndodheni.
 
-# - Çfare mund te bej ne rast se vonohet porosia?
+# Çfare mund te bej ne rast se vonohet porosia?
 Sherbimi yne do te jete gjithmone gati per tju dorezuar porosine brenda limitit te orarit te vendosur. Gjithsesi ne rast vonesash pertej ketij limiti ju do te kontaktoheni nga restoranti per vonesen dhe arsyen e saj.
