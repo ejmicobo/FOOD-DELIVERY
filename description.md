@@ -44,3 +44,6 @@ Ne inkurajojmë bizneset që të ofrojnë promozione ne menun online, por mund t
 
 # _Si_ _është_ _cilësia_ _e_ _ushqimit_ _?_
  Stafi I Food-Delivery në bashkëpunim me restorantin, ka marrë masa për të sjellë ushqimin në cilësi të lartë tek ju, duke përdorur një paketim të përshtatshëm që ruajnë temperaturën dhe gjithashtu transport të kujdesshëm për të mos patur dëmtime...
+
+# _Si_ _funksionon_ _sherbimi_ _dhe_ _per_ _cilat_ _pajisje_ _ofrohet_ _?_
+Përdorimi është i thjeshtë për tu adoptuar nga të gjithë: mjafton të hysh në faqen elektronike ose përmes aplikacionit (i përshtatur në sistemin iOS & Android) dhe në sajë të lokalizimit (GPS), mund të bëni zgjedhjen tuaj të radhës duke shfletuar menutë dhe duke monitoruar statusin e dorëzimit të porosisë, lehtë nga tableti apo smartfoni juaj
