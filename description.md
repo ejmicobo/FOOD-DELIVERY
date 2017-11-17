@@ -43,4 +43,4 @@ Cdo informacion do ta gjeni në programin tonë në bazë të rregullores që ë
 Ne inkurajojmë bizneset që të ofrojnë promozione ne menun online, por mund të ekzistojnë dhe përjashtime për produkte të caktuara.
 
 # _Si_ _është_ _cilësia_ _e_ _ushqimit_ _?_
- Stafi I Food-Delivery në bashkëpunim me restorantin, ka marrë masa për të sjellë ushqimin në cilësi të lartë tek ju, duke përdorur një paketim të përshtatshëm që ruajnë temperaturën dhe gjithashtu transport të kujdesshëm për të mos patur dëmtime.
+ Stafi I Food-Delivery në bashkëpunim me restorantin, ka marrë masa për të sjellë ushqimin në cilësi të lartë tek ju, duke përdorur një paketim të përshtatshëm që ruajnë temperaturën dhe gjithashtu transport të kujdesshëm për të mos patur dëmtime...
